@@ -1,3 +1,5 @@
 This is my first file in my Git Repository
 
 This is new text added in file.
+
+This new text added in branch_3
